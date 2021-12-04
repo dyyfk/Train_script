@@ -19,7 +19,7 @@ MODEL_NAME=/dataset/outputs/conll03/baseline/roberta_3_1e-5
 # params
 LR=1e-5
 WEIGHT_DECAY=1e-4
-EPOCH=3
+EPOCH=2
 SEED=0
 
 ADAM_EPS=1e-8
