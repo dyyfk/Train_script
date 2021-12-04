@@ -14,7 +14,7 @@ DATA_ROOT=$PROJECT_ROOT/dataset/conll03_distant/
 
 # model
 MODEL_TYPE=roberta
-MODEL_NAME=roberta-base
+MODEL_NAME=/dataset/outputs/conll03/baseline/roberta_3_1e-5
 
 # params
 LR=1e-5
