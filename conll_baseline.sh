@@ -19,7 +19,7 @@ MODEL_NAME=roberta-base
 # params
 LR=1e-5
 WEIGHT_DECAY=1e-4
-EPOCH=2
+EPOCH=3
 SEED=0
 
 ADAM_EPS=1e-8
