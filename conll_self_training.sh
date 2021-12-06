@@ -60,7 +60,6 @@ CUDA_DEVICE_ORDER=PCI_BUS_ID CUDA_VISIBLE_DEVICES=$GPUID python3 run_self_traini
   --do_train \
   --do_eval \
   --do_predict \
-  --evaluate_during_training=False \
   --output_dir $OUTPUT \
   --cache_dir $PROJECT_ROOT/pretrained_model \
   --seed $SEED \
